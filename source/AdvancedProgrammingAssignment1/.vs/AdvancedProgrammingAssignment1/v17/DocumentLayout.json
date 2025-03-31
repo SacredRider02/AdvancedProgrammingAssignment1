@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\whitecliffe stuff\\Year 3\\Q1\\Advanced Programming\\AdvancedProgrammingAssignment1\\source\\AdvancedProgrammingAssignment1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\whitecliffe stuff\\Year 3\\Q1\\Advanced Programming\\AdvancedProgrammingAssignment1\\source\\AdvancedProgrammingAssignment1\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\whitecliffe stuff\\Year 3\\Q1\\Advanced Programming\\AdvancedProgrammingAssignment1\\source\\AdvancedProgrammingAssignment1\\OmniAccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:OmniAccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\whitecliffe stuff\\Year 3\\Q1\\Advanced Programming\\AdvancedProgrammingAssignment1\\source\\AdvancedProgrammingAssignment1\\Customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\whitecliffe stuff\\Year 3\\Q1\\Advanced Programming\\AdvancedProgrammingAssignment1\\source\\AdvancedProgrammingAssignment1\\BankStaff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BankStaff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\whitecliffe stuff\\Year 3\\Q1\\Advanced Programming\\AdvancedProgrammingAssignment1\\source\\AdvancedProgrammingAssignment1\\InvestmentAccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:InvestmentAccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\whitecliffe stuff\\Year 3\\Q1\\Advanced Programming\\AdvancedProgrammingAssignment1\\source\\AdvancedProgrammingAssignment1\\Account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\whitecliffe stuff\\Year 3\\Q1\\Advanced Programming\\AdvancedProgrammingAssignment1\\source\\AdvancedProgrammingAssignment1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\whitecliffe stuff\\Year 3\\Q1\\Advanced Programming\\AdvancedProgrammingAssignment1\\source\\AdvancedProgrammingAssignment1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\whitecliffe stuff\\Year 3\\Q1\\Advanced Programming\\AdvancedProgrammingAssignment1\\source\\AdvancedProgrammingAssignment1\\Customer.cs",
+              "RelativeDocumentMoniker": "Customer.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\whitecliffe stuff\\Year 3\\Q1\\Advanced Programming\\AdvancedProgrammingAssignment1\\source\\AdvancedProgrammingAssignment1\\Customer.cs",
+              "RelativeToolTip": "Customer.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T00:14:37.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BankStaff.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\whitecliffe stuff\\Year 3\\Q1\\Advanced Programming\\AdvancedProgrammingAssignment1\\source\\AdvancedProgrammingAssignment1\\BankStaff.cs",
+              "RelativeDocumentMoniker": "BankStaff.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\whitecliffe stuff\\Year 3\\Q1\\Advanced Programming\\AdvancedProgrammingAssignment1\\source\\AdvancedProgrammingAssignment1\\BankStaff.cs",
+              "RelativeToolTip": "BankStaff.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T00:14:25.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InvestmentAccount.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\whitecliffe stuff\\Year 3\\Q1\\Advanced Programming\\AdvancedProgrammingAssignment1\\source\\AdvancedProgrammingAssignment1\\InvestmentAccount.cs",
+              "RelativeDocumentMoniker": "InvestmentAccount.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\whitecliffe stuff\\Year 3\\Q1\\Advanced Programming\\AdvancedProgrammingAssignment1\\source\\AdvancedProgrammingAssignment1\\InvestmentAccount.cs",
+              "RelativeToolTip": "InvestmentAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T00:12:42.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OmniAccount.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\whitecliffe stuff\\Year 3\\Q1\\Advanced Programming\\AdvancedProgrammingAssignment1\\source\\AdvancedProgrammingAssignment1\\OmniAccount.cs",
+              "RelativeDocumentMoniker": "OmniAccount.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\whitecliffe stuff\\Year 3\\Q1\\Advanced Programming\\AdvancedProgrammingAssignment1\\source\\AdvancedProgrammingAssignment1\\OmniAccount.cs",
+              "RelativeToolTip": "OmniAccount.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABEAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T23:51:48.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\whitecliffe stuff\\Year 3\\Q1\\Advanced Programming\\AdvancedProgrammingAssignment1\\source\\AdvancedProgrammingAssignment1\\Account.cs",
+              "RelativeDocumentMoniker": "Account.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\whitecliffe stuff\\Year 3\\Q1\\Advanced Programming\\AdvancedProgrammingAssignment1\\source\\AdvancedProgrammingAssignment1\\Account.cs",
+              "RelativeToolTip": "Account.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T01:32:40.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\whitecliffe stuff\\Year 3\\Q1\\Advanced Programming\\AdvancedProgrammingAssignment1\\source\\AdvancedProgrammingAssignment1\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\whitecliffe stuff\\Year 3\\Q1\\Advanced Programming\\AdvancedProgrammingAssignment1\\source\\AdvancedProgrammingAssignment1\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAAADsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T02:19:53.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\whitecliffe stuff\\Year 3\\Q1\\Advanced Programming\\AdvancedProgrammingAssignment1\\source\\AdvancedProgrammingAssignment1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\whitecliffe stuff\\Year 3\\Q1\\Advanced Programming\\AdvancedProgrammingAssignment1\\source\\AdvancedProgrammingAssignment1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T01:56:59.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\whitecliffe stuff\\Year 3\\Q1\\Advanced Programming\\AdvancedProgrammingAssignment1\\source\\AdvancedProgrammingAssignment1\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\whitecliffe stuff\\Year 3\\Q1\\Advanced Programming\\New folder\\AdvancedProgrammingAssignment1\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\New folder\\AdvancedProgrammingAssignment1\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T01:56:42.822Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
